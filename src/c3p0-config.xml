@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+<!--配置数据库连接参数-->
+	<default-config>
+		<property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql://localhost:3306/bookshop?serverTimezone=UTC&amp;useUnicode=true&amp;characterEncoding=utf-8</property>
+		<property name="user">root</property>
+		<property name="password">123456</property>
+	</default-config>
+</c3p0-config>

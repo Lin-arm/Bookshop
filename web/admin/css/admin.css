@@ -1,0 +1,7 @@
+body{
+    /*background: url("https://pic1.imgdb.cn/item/6357f57916f2c2beb1049df7.jpg");*/
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url(../img/bg_v3.png) no-repeat 0px 0px fixed;
+    background-size: 100%;
+    background-position: bottom;
+    text-align: center;
+}
