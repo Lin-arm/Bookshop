@@ -37,7 +37,7 @@
 
 
 - 前台首页:
-![前台首页](https://pic.imgdb.cn/item/639c03ecb1fccdcd36ff92d5.png)
+![前台首页](https://files.superbed.cn/static/images/92/d5/639c03ecb1fccdcd36ff92d5.png?expired=2022-12-18&sign=502c0635a585c2f4b2d3e2579f98ca6c))
 
 
 
