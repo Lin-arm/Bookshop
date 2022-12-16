@@ -36,48 +36,48 @@
 
 
 
-- 前台首页:
-![前台首页](https://files.superbed.cn/static/images/92/d5/639c03ecb1fccdcd36ff92d5.png?expired=2022-12-18&sign=502c0635a585c2f4b2d3e2579f98ca6c))
+- 前台首页:  https://pic.imgdb.cn/item/639c03ecb1fccdcd36ff92d5.png
+![前台首页](https://files.superbed.cn/static/images/92/d5/639c03ecb1fccdcd36ff92d5.png?expired=2022-12-18&sign=502c0635a585c2f4b2d3e2579f98ca6c)
 
 
 
-- 前台首页热销推荐:
-![热销推荐](https://pic.imgdb.cn/item/639c03f4b1fccdcd36ff9b11.png)
+- 前台首页热销推荐: https://pic.imgdb.cn/item/639c03f4b1fccdcd36ff9b11.png
+![热销推荐](https://files.superbed.cn/static/images/9b/11/639c03f4b1fccdcd36ff9b11.png?expired=2022-12-18&sign=13170880348613fc0ec73359502c0fa0)
 
 
 
-- 前台搜索作者结果:
-![搜索作者结果](https://pic.imgdb.cn/item/639c03fdb1fccdcd36ffa249.png)
+- 前台搜索作者结果: https://pic.imgdb.cn/item/639c03fdb1fccdcd36ffa249.png
+![搜索作者结果](https://files.superbed.cn/static/images/a2/49/639c03fdb1fccdcd36ffa249.png?expired=2022-12-18&sign=136476e135752c125dd7b1a800e2feec)
 
 
 
-- 前台书籍详情:
-![书籍详情](https://pic.imgdb.cn/item/639c0404b1fccdcd36ffa989.png)
+- 前台书籍详情: https://pic.imgdb.cn/item/639c0404b1fccdcd36ffa989.png
+![书籍详情](https://files.superbed.cn/static/images/a9/89/639c0404b1fccdcd36ffa989.png?expired=2022-12-18&sign=cfaac263536e73e9e3e8b16f8efa97ad)
 
 
 
-- 前台购物车:
-![前台购物车](https://pic.imgdb.cn/item/639c040ab1fccdcd36ffb214.png)
+- 前台购物车: https://pic.imgdb.cn/item/639c040ab1fccdcd36ffb214.png
+![前台购物车](https://files.superbed.cn/static/images/b2/14/639c040ab1fccdcd36ffb214.png?expired=2022-12-18&sign=676f2715d6da17e18533a4a41326d4a2)
 
 
 
-- 后台首页:
-![后台首页](https://pic.imgdb.cn/item/639c0412b1fccdcd36ffb9ae.png)
+- 后台首页: https://pic.imgdb.cn/item/639c0412b1fccdcd36ffb9ae.png
+![后台首页](https://files.superbed.cn/static/images/b9/ae/639c0412b1fccdcd36ffb9ae.png?expired=2022-12-18&sign=46161d3e3f8079e2c9826a1f2935f901)
 
 
 
-- 后台客户管理:
-![客户管理](https://pic.imgdb.cn/item/639c041eb1fccdcd36ffc6ba.png)
+- 后台客户管理: https://pic.imgdb.cn/item/639c041eb1fccdcd36ffc6ba.png
+![客户管理](https://files.superbed.cn/static/images/c6/ba/639c041eb1fccdcd36ffc6ba.png?expired=2022-12-18&sign=922708438b24039c95a4c84540566817)
 
 
 
-- 后台订单管理:
-![订单管理](https://pic.imgdb.cn/item/639c0422b1fccdcd36ffc9ac.png)
+- 后台订单管理: https://pic.imgdb.cn/item/639c0422b1fccdcd36ffc9ac.png
+![订单管理](https://files.superbed.cn/static/images/c9/ac/639c0422b1fccdcd36ffc9ac.png?expired=2022-12-18&sign=e36115c423aa1dc9d234c67c549ecd56)
 
 
 
-- 后台商品管理_商品修改:
-![商品修改](https://pic.imgdb.cn/item/639c0426b1fccdcd36ffced0.png)
+- 后台商品管理_商品修改: https://pic.imgdb.cn/item/639c0426b1fccdcd36ffced0.png
+![商品修改](https://files.superbed.cn/static/images/ce/d0/639c0426b1fccdcd36ffced0.png?expired=2022-12-18&sign=d8af997fb2420e66cbc2edc49165e471)
 
 
 
@@ -130,16 +130,15 @@
 
 仅供参考
 
-如本项目的图片、字体等文件未能上传GitHub，可从蓝奏云下载本项目。
-
 
 
 #### &#127827;安装教程
 
-1.  直接拉取本项目到你的IDEA，或者从蓝奏云上下载、解压、用IDEA打开.
+1.  直接拉取本项目到你的IDEA，或者从[蓝奏云](https://wwyw.lanzoue.com/b02237m2j)(密码:47sw)上下载、解压、用IDEA打开.
 1.  用数据库可视化工具新建名为`bookshop`的数据库，然后执行本项目里的`bookshop_v1.x.x.sql`中的sql语句建表.
 1.  配置Tomcat
 1.  引入lib
+1.  修改`c3p0-config.xml`数据库连接池配置文件
 1.  运行
 
 
