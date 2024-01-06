@@ -123,7 +123,7 @@
 | :-------------: | :------: | :-----------------------------------------: |
 |  IntelliJ IDEA  | 2022.2.2 |   D:\IntelliJ_IDEA\IntelliJ IDEA 2022.2.2   |
 |     Tomcat      | 10.0.141 |              D:\tomcat-10.0.14              |
-|      JDK18      | 18.0.2.1 |            D:\Java\jdk-18.0.2.1             |
+|      JDK17      | 17.07 |            D:\Java\jdk-17.0.7            |
 | Windows10专业版 |   20H2   |                     C盘                     |
 |      MySQL      | 8.0.31.0 | C:\Program Files\MySQL\MySQL Server 8.0\bin |
 | Navicat Premium | 15.0.13  |      D:\Navicat_15\Navicat Premium 15       |
